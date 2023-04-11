@@ -1,5 +1,4 @@
 # python-port-scanner
-Python Port Scanner
 
 pip install pyfiglet
 
